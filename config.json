@@ -1,0 +1,29 @@
+{
+"ownerNumber": ["6282229217681"],
+"ownerName": ["Wahab and Inory"],
+"botName": "Zero Bot",
+"packname": "Zero Bot",
+"author": "Wahab and Inory",
+"sessionName": "session",
+"pathimg": "./media/hinata.jpg",
+
+"medsos": {
+"youtube": "Tidaj ada channel YT",
+"instagram": "Tidak ada Instagram"
+},
+
+"donasi": {
+"saweria": "Chat Owner gue Ya",
+"dana": "082229217681",
+"AN_dana": "Wahab atarianus",
+"gopay": "082229217681",
+"AN_gopay": "Wahab atarianus"
+},
+
+"gamewaktu": 90,
+"limitCount": 25,
+"gcount": {
+"prem": 35,
+"user": 15
+}
+}
